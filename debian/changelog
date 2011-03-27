@@ -1,0 +1,7 @@
+eventmachine (0.12.10-1) stable; urgency=low
+
+  * Initial gem2deb
+  * add librspec-ruby dependency
+  * DH_RUBY_IGNORE_TESTS=require-rubygems
+
+ -- David Greaves <david@ash.dgreaves.com>  Sun, 27 Mar 2011 18:15:05 +0100
