@@ -12,7 +12,7 @@ Homepage: http://rubyeventmachine.com
 
 Package: ruby-eventmachine
 Architecture: all
-Depends: ${shlibs:Depends}, ${misc:Depends}
+Depends: ${shlibs:Depends}, ${misc:Depends}, ruby1.8-eventmachine
 Description: Ruby/EventMachine library
  EventMachine implements a fast, single-threaded engine for arbitrary network
  communications. It's extremely easy to use in Ruby. EventMachine wraps all
