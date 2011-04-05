@@ -1,10 +1,16 @@
-eventmachine (0.12.10-2) unstable; urgency=low
+ruby-eventmachine (0.12.10-3) unstable; urgency=low
+
+  * Update to gem2deb 0.2.0
+
+ -- David Greaves <david@dgreaves.com>  Tue, 05 Apr 2011 19:19:05 +0100
+
+ruby-eventmachine (0.12.10-2) unstable; urgency=low
 
   * Depend on default ruby version of EM
 
  -- David Greaves <david@dgreaves.com>  Mon, 28 Mar 2011 14:10:48 +0100
 
-eventmachine (0.12.10-1) stable; urgency=low
+ruby-eventmachine (0.12.10-1) stable; urgency=low
 
   * Initial gem2deb
   * add librspec-ruby dependency
