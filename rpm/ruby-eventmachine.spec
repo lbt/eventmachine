@@ -33,7 +33,7 @@ Requires:       rubygems >= 1.3.5
 Url:            http://rubyeventmachine.com/
 #               http://rubyforge.org/projects/eventmachine
 Source:         %{mod_name}-%{version}.gem
-Source1:        rpm/ruby-eventmachine.rpmlintrc
+Source1:        ruby-eventmachine.rpmlintrc
 #
 Summary:        Ruby/EventMachine socket engine library
 %description
